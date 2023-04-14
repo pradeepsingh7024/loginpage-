@@ -1,0 +1,74 @@
+body{
+   background-image: url(wp2940002.jpg);
+   background-attachment: fixed;
+   /* position: fixed;
+   background-repeat: no-repeat;
+   padding: 0%;
+   width: 100vw;
+   height: 100vh; */
+   
+}
+.parent{
+   background-image: url("icon.jpg " );
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   position: fixed;
+   padding: 0% 0%;
+   
+    display: grid;
+    place-items: center;
+   
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+#h2{
+   color: rgb(15, 180, 180);}
+
+ .inner{
+    /* background-image: url("1000_F_303570054_NXBYGgQABt5HPUkRgi9SjQVgMbD7iymv.jpg"); */
+    /* box-shadow: 3px 3px 5px rgb(126, 193, 224); */
+    box-shadow: 3px 3px rgb(91, 170, 201), -1em 0 .4em olive;
+    border-color: rgb(216, 150, 150);
+    text-align: center;
+   
+    /* width: 35vw;
+    height: 35vh; */
+    font-size: large;
+    position: relative;
+   padding: 3% 3%;
+   padding-bottom: 5%;
+     /* 
+    padding-bottom: 5%;
+    padding-right: 5%; */
+    
+    
+
+  
+ }
+ .inputbox{
+   text-align: left;
+   position: relative;
+   border-color: rgb(150, 98, 98);
+
+   width: 250px;
+ }
+ .inputbox input{
+   width: 100%;
+   padding: 10px;
+   border: 1px solid rgb(rgb(83, 38, 38), rgb(142, 173, 142), rgb(149, 149, 180));
+   border-radius: 5px;
+   font-size: lem;
+ }
+ #id{
+   color: aqua;
+    border-color: brown;
+    text-align: left;
+
+ }
+ #button{
+    background-color: yellow;
+    box-sizing: 30px;
+ }
